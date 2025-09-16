@@ -1,2 +1,1 @@
-# Modern-Art-Photography-Gallery
-  
+# Modern-Art-Photography-Galler
